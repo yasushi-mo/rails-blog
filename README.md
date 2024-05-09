@@ -1,4 +1,4 @@
-# blog
+# rails-blog
 
 Blog wep app on Rails
 
